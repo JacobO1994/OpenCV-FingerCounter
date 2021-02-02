@@ -17,4 +17,4 @@ scipy==1.6.0
 threadpoolctl==2.1.0
 
 ### Demo
-![](https://giphy.com/embed/9tUDe3Mly8kde652ju)
+![](Animated GIF-original.mp4)
