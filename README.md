@@ -15,3 +15,6 @@ pairwise==0.1
 scikit-learn==0.24.1
 scipy==1.6.0
 threadpoolctl==2.1.0
+
+### Demo
+<iframe src="https://giphy.com/embed/9tUDe3Mly8kde652ju" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/9tUDe3Mly8kde652ju">via GIPHY</a></p>
