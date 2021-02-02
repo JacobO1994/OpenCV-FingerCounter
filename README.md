@@ -17,4 +17,4 @@ scipy==1.6.0
 threadpoolctl==2.1.0
 
 ### Demo
-![](name-of-giphy.gif)
+![](demo.gif)
