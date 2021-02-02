@@ -1,5 +1,5 @@
 # OpenCV-FingerCounter
-Using Open-CV and Scikit-learn, count the number of fingers a user is holding up
+Using Open-CV to count the number of fingers a user is holding up
 
 ## What is this project
 
@@ -17,4 +17,4 @@ scipy==1.6.0
 threadpoolctl==2.1.0
 
 ### Demo
-
+![DemoVideo][https://media.giphy.com/media/9tUDe3Mly8kde652ju/giphy.gif]
