@@ -3,7 +3,7 @@ Using Open-CV to count the number of fingers a user is holding up
 
 ## What is this project
 
-Since I am a new cs student with a background in Python, I wanted to explore some of the languages applications and libraries. I am also interested in computer vision and machine learning. 
+As a new cs student with a background in Python, I wanted to explore some of the languages applications and libraries. I am also interested in computer vision and machine learning. 
 
 Disclaimer: This project is a part of a capstone from Jose Portilla's Udemy Course "Python for Computer Vision with OpenCV and Deep Learning". This code is not original and the majority of it was written as I followed and progressed through the course.
 
