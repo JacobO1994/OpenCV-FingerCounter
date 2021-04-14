@@ -12,7 +12,6 @@ background = None
 accumulated_weight = 0.5
 
 # Manually set up our ROI for grabbing the hand.
-# Feel free to change these. I just chose the top right corner for filming.
 roi_top = 20
 roi_bottom = 300
 roi_right = 300
